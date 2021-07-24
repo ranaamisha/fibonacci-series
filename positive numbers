@@ -1,0 +1,4 @@
+list1=[12,3,-8,-4,-2,9]
+for num in list1:
+    if num>=0:
+        print(num,end=" ")
